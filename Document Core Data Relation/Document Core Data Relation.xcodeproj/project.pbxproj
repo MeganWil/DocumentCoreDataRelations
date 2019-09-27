@@ -22,6 +22,7 @@
 		D53B5742233DC657006E995B /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53B5741233DC657006E995B /* CategoryViewController.swift */; };
 		D53B5744233DCBEC006E995B /* DocsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53B5743233DCBEC006E995B /* DocsViewController.swift */; };
 		D53B5746233DCD05006E995B /* DocViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53B5745233DCD05006E995B /* DocViewController.swift */; };
+		D53B574A233DDE30006E995B /* DocumentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53B5749233DDE30006E995B /* DocumentTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		D53B5741233DC657006E995B /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 		D53B5743233DCBEC006E995B /* DocsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocsViewController.swift; sourceTree = "<group>"; };
 		D53B5745233DCD05006E995B /* DocViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocViewController.swift; sourceTree = "<group>"; };
+		D53B5749233DDE30006E995B /* DocumentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				D53B5741233DC657006E995B /* CategoryViewController.swift */,
 				D53B5743233DCBEC006E995B /* DocsViewController.swift */,
 				D53B5745233DCD05006E995B /* DocViewController.swift */,
+				D53B5749233DDE30006E995B /* DocumentTableViewCell.swift */,
 				D53B5705233DC010006E995B /* SceneDelegate.swift */,
 				D53B5709233DC010006E995B /* Main.storyboard */,
 				D53B570F233DC011006E995B /* Assets.xcassets */,
@@ -295,6 +298,7 @@
 				D53B570E233DC010006E995B /* Document_Core_Data_Relation.xcdatamodeld in Sources */,
 				D53B5742233DC657006E995B /* CategoryViewController.swift in Sources */,
 				D53B5704233DC010006E995B /* AppDelegate.swift in Sources */,
+				D53B574A233DDE30006E995B /* DocumentTableViewCell.swift in Sources */,
 				D53B5746233DCD05006E995B /* DocViewController.swift in Sources */,
 				D53B5706233DC010006E995B /* SceneDelegate.swift in Sources */,
 				D53B573E233DC19B006E995B /* CategoryCoreDataProp.swift in Sources */,
